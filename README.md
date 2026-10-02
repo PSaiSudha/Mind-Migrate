@@ -2,7 +2,7 @@
 
 ### Passive Behavioral Telemetry & Real-Time Mental Health Monitoring System
 
-🌐 **Live Demo:** [View Live Streamlit App](YOUR_STREAMLIT_APP_URL)
+🌐 **Live Demo:** [View Live Streamlit App](https://mind-migrate-saisudha.streamlit.app/)
 
 ---
 
